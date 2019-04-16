@@ -4,7 +4,7 @@ Example app using FastAPI and JWT
 ```
 virtualenv -p python3 venv
 source venv/bin/activate
-pip3 install -t requirements.txt
+pip3 install -r requirements.txt
 mv config.yaml.example config.yaml
 gunicorn -w 1 -k uvicorn.workers.UvicornWorker api:app --bind=0.0.0.0:5002
 ```
