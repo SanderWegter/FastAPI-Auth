@@ -1,0 +1,11 @@
+server_settings: {
+  "expiry": 3600,
+  "app_key": "6fcc8943c66a26d68954943b9ef76872c45a4c1a865dc5ee874e57b8015bb4a8"
+}
+mysql: {
+  "host": "localhost",
+  "username": "api_db",
+  "password": "apidb",
+  "port": 3306,
+  "db": "fastapiauth"
+}
