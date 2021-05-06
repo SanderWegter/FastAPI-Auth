@@ -7,7 +7,7 @@ Click==7.0
 cryptography==2.5
 email-validator==1.0.3
 Flask==1.0.2
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 fastapi==0.13.0
 idna==2.6
 itsdangerous==1.1.0
