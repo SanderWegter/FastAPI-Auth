@@ -8,7 +8,7 @@ cryptography==2.5
 email-validator==1.0.3
 Flask==1.0.2
 Flask-Cors==3.0.6
-fastapi==0.13.0
+fastapi==0.65.2
 idna==2.6
 itsdangerous==1.1.0
 Jinja2==2.10.1
